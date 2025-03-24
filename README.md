@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ramya  
+🎓 Electronics and Communication Engineering (ECE) Graduate  
 
-<!--
-**Ramya2775/Ramya2775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Education:**  
+- **BTech in ECE** from RGUKT Nuzvid (CGPA: 8.3)  
+- **PUC (Pre-University Course)** (CGPA: 7.8)  
+- **MPL High School** (CGPA: 10.0)  
 
-Here are some ideas to get you started:
+🔹 **Technical Skills:**  
+- Programming: Java, C  
+- Problem-Solving & Aptitude  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Projects:**  
+- **Smart Plantation System** – Developed an automated irrigation system using sensors.  
+- **Mosquito-Tracking Robot** (Final Year Project) – Research on using image processing for tracking in different environments.  
+
+🔹 **Interests:**  
+- Coding Challenges  
+- Exploring Technology & Innovation  
+
+📌 [GitHub](https://github.com/Ramya2775)  
+
+📌 [LinkedIn](https://www.linkedin.com/in/ane-ramya) 
